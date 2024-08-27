@@ -10,6 +10,3 @@
 
 
 
-===== WOOSERR =====
-
-Discord: thewooserr
